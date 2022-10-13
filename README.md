@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Discord bot development
-- 🌱 I’m currently learning C, C++, C# and Python
+- 🌱 I’m learning C, C++, C# and Python
 - 👯 I’m looking to collaborate on discord
 - 🤔 I’m looking for help with bot development
 - 😄 Pronouns: he/him
