@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Game development
+- 🔭 I’m currently working on Game development and 3D modelling
 - 🌱 I’m learning Python and Javascript side-by-side
 - 👯 I’m looking to collaborate on discord
 - 🤔 I’m looking for help with AI development and Web Development
