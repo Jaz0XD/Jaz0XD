@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="" alt="JazXD" /> </p>
 
-<p align='left'>Entering the World of <h3 Entrepreneurship</h3></h3>p>
+<p align='left'>Entering the World of <h3 Entrepreneurship</h3></p>
 
 <p align='left'>Developer and Innovator</p>
 
