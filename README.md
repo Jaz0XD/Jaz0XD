@@ -5,7 +5,7 @@
 <h2 align="center">( JazXD )</h2>
 <h3 align="center">Artificial General Intelligence</h3>
 
-/*![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)*/
+<!--![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)-->
 
 <h2 align='center'>Developer and Innovator</h2>
 
