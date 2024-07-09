@@ -5,6 +5,7 @@
 <h2 align="center">( JazXD )</h2>
 <h3 align="center">Artificial General Intelligence</h3>
 
+[![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)
 <!--![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)-->
 
 <h2 align='center'>Developer and Innovator</h2>
