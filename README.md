@@ -5,13 +5,13 @@
 <h2 align="center">( JazXD )</h2>
 <h3 align="center">Artificial General Intelligence</h3>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/jaz0xd" alt="JazXD" /> </p>
-
-## Entering the World of Entrepreneurship
+![Profile views](https://gpvc.arturio.dev/jaz0xd)
 
 ## Developer and Innovator
 
-# Hands-on - Website, software and Game development
+## Entering the World of Entrepreneurship and AI
+
+## Hands-on - Website, software and Game development
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
