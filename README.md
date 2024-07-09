@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Artificial Intellegence]([https://pixelz.cc/wp-content/uploads/2023/12/machine-learning-artificial-intelligence-uhd-4k-wallpaper.jpg](https://wallpapers.com/images/featured/ai-vpzcidps6aw64inn.jpg))
+![Artificial Intellegence](https://wallpapers.com/images/featured/ai-vpzcidps6aw64inn.jpg)
 - 🔭 I’m currently working on Game development and 3D modelling
 - 🌱 I’m learning Python and Javascript side-by-side
 - 👯 I’m looking to collaborate on discord
