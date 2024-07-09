@@ -7,11 +7,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/jaz0xd)
 
-## Developer and Innovator
+<h2 align='center'>Developer and Innovator</h2>
 
-## Entering the World of Entrepreneurship and AI
+# Entering the World of Entrepreneurship and AI
 
-## Hands-on - Website, software and Game development
+# Hands-on - Website, software and Game development
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
