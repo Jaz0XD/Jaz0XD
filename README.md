@@ -1,12 +1,15 @@
 ### Hi there 👋
 ![Artificial Intellegence](https://wallpapers.com/images/featured/ai-vpzcidps6aw64inn.jpg)
-- 🔭 I’m currently working on Game development and 3D modelling
-- 🌱 I’m learning Python and Javascript side-by-side
-- 👯 I’m looking to collaborate on discord
-- 🤔 I’m looking for help with AI development and Web Development
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My developer career was by tragic
-- 📫 How to reach me: Twitter: @JazXD15583083
-                       Discord: JazXD#5918
-                       Instagram: jaz0xd
+<h1 align="center">MOHAMED SIRAJUDDEEN</h1>
+<h3 align="center">AKA</h3>
+<h2 align="center">JazXD</h2>
+<h3 align="center">Artificial General Intelligence</h3>
+
+<p align="left"> <img src="" alt="JazXD" /> </p>
+
+<p align='left'>Entering the World of <h3 Entrepreneurship</h3></h3>p>
+
+<p align='left'>Developer and Innovator</p>
+
+<p align='left'>Hands-on - Web, software and Game development</p>
 
