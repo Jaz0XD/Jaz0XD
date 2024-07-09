@@ -9,9 +9,9 @@
 
 <h2 align='center'>Developer and Innovator</h2>
 
-# Entering the World of Entrepreneurship and AI
+### Entering the World of Entrepreneurship and AI
 
-# Hands-on - Website, software and Game development
+### Hands-on - Website, software and Game development
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
@@ -19,4 +19,4 @@
 ## Statistics
 ![Jaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=dark&show_icons=true)
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jaz0xd&theme=default)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jaz0xd)](https://github.com/jaz0xd/github-contribution-stats/)
