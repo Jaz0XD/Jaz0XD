@@ -24,4 +24,5 @@
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
-<figure display='block'><embed src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg"></embed></figure>
+<br>
+![Wakatime Stats](https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg)
