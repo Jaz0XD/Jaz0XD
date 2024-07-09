@@ -5,7 +5,7 @@
 <h2 align="center">( JazXD )</h2>
 <h3 align="center">Artificial General Intelligence</h3>
 
-![](https://komarev.com/ghpvc/?username=jaz0xd)
+/*![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)*/
 
 <h2 align='center'>Developer and Innovator</h2>
 
@@ -13,11 +13,11 @@
 
 ### Hands-on - Website, Software and Game development
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
-
 ## Statistics
 ![Jaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=dark&show_icons=true)
 
 ## Contributions
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jaz0xd)](https://github.com/jaz0xd/github-contribution-stats/)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
