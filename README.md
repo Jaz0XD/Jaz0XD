@@ -14,8 +14,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
 ![Lines of Code](https://img.shields.io/tokei/lines/github/jaz0xd/jaz0xd?label=Lines%20of%20Code)<br>
-![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/jaz0xd?label=Repo%20Size)<br>
-![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/jaz0xd?label=Repo%20Size)<br>
+![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/wasd-ChatApp?label=Repo%20Size)<br>
+
 <hr>
 
 ### Hours Coding
