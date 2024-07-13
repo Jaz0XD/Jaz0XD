@@ -13,7 +13,7 @@
 ## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
-![Total Lines of Code](https://img.shields.io/github/languages/code-size/jaz0xd/wasd-ChatApp?label=Total%20Lines%20of%20Code)<br>
+![Commits this month](https://img.shields.io/github/commit-activity/m/jaz0xd/jaz0xd?label=Commits%20this%20month)<br>
 ![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/wasd-ChatApp?label=Repo%20Size)<br>
 
 <hr>
