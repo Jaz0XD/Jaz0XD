@@ -13,8 +13,6 @@
 ## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
-![Jaz0xd's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=radical&count_private=true&include_all_commits=true)<br>
-![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/wasd-ChatApp?label=Repo%20Size)<br>
 
 <hr>
 
