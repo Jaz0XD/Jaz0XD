@@ -12,7 +12,11 @@
 
 ## Statistics
 
-![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br><hr>
+![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
+![Lines of Code](https://img.shields.io/tokei/lines/github/jaz0xd/jaz0xd?label=Lines%20of%20Code)<br>
+![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/jaz0xd?label=Repo%20Size)<br>
+![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/jaz0xd?label=Repo%20Size)<br>
+<hr>
 
 ### Hours Coding
 [![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)<br><br>
