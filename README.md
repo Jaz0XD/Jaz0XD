@@ -19,7 +19,7 @@
 ![Jaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=radical&show_icons=true) <!-- Theme -> default, dark, radical -->
 
 ## Contributions
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jaz0xd)](https://github.com/jaz0xd/github-contribution-stats/)
+[![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)-->
