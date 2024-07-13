@@ -1,5 +1,7 @@
 <!-- ![Artificial Intellegence](https://wallpapers.com/images/featured/ai-vpzcidps6aw64inn.jpg)-->
-![Artificial Intellegence](https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!w700wp)
+<!-- ![Artificial Intellegence](https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!w700wp)-->
+
+<p align='center' ><img src="https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!w700wp" alt="Artificial Intelligence" class="center-image"></p>
 <hr>
 <h1 align="center">MOHAMED B SIRAJUDDEEN</h1>
 <h2 align="center">( JazXD )</h2>
