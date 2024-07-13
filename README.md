@@ -13,7 +13,7 @@
 ## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
-![Commits this month](https://img.shields.io/github/commit-activity/m/jaz0xd/jaz0xd?label=Commits%20this%20month)<br>
+![Commits this month](https://img.shields.io/github/commit-activity/m/jaz0xd?label=Commits%20this%20month)<br>
 ![Repo Size](https://img.shields.io/github/repo-size/jaz0xd/wasd-ChatApp?label=Repo%20Size)<br>
 
 <hr>
