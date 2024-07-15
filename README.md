@@ -8,18 +8,18 @@
 <h3 align="center">Artificial General Intelligence</h3>
 <h2 align='center'>Developer and Innovator</h2>
 
-### Entering the World of Entrepreneurship and AI
+<h3 align='center'>Entering the World of Entrepreneurship and AI</h3>
 
-### Hands-on - Website, Software and Game development
+<h3 align='center'>Hands-on - Website, Software and Game development</h3>
 
 ## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
-
+<h3 align='right'>Hours Coding</h3>
+<p align='right'>[![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)</p><br><br>
 <hr>
 
-### Hours Coding
-[![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)<br><br>
+
 
 ## Contributions
 [![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Theme -> default, dark, radical -->
