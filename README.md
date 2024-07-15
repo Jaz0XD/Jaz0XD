@@ -16,7 +16,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
 <h3 align='right'>Hours Coding</h3>
-<p align='right'>[![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)</p><br><br>
+<span align='right'>[![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)</span><br><br>
 <hr>
 
 
