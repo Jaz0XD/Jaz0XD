@@ -14,8 +14,9 @@
 
 ## Statistics
 
-![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br>
-Hours Coding
+![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br><br><hr>
+
+## Hours Coding
 [![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)<br><br>
 <hr>
 
