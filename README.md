@@ -11,16 +11,14 @@
 <h3 align='center'>Entering the World of Entrepreneurship and AI</h3>
 
 <h3 align='center'>Hands-on - Website, Software and Game development</h3>
+<br><hr>
 
 ## Statistics
 
-![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br><br><hr>
+![Profile views](https://komarev.com/ghpvc/?username=jaz0xd)<br><br>
 
 ## Hours Coding
 [![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)<br><br>
-<hr>
-
-
 
 ## Contributions
 [![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Theme -> default, dark, radical -->
