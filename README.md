@@ -24,8 +24,8 @@
 [![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Theme -> default, dark, radical -->
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=radical)
 
 <!-- ## All Languages -->
 <!-- <p align="left"><img src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg" width="600" height="400"></p> -->
