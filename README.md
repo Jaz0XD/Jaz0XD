@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/0e30fc82-fae6-4af4-865a-dbc0052c077a.svg)](https://wakatime.com/@0e30fc82-fae6-4af4-865a-dbc0052c077a)<br><br>
 
 ## Contributions
-[![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Theme -> default, dark, radical -->
+<!-- [![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) --!> <!-- Theme -> default, dark, radical -->
 ![](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jaz0xd&theme=dark&hide_border=false)
 
