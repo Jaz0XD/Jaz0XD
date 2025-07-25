@@ -22,6 +22,8 @@
 
 ## Contributions
 [![Jaz0xd's Contribution Stats](https://github-readme-stats.vercel.app/api?username=jaz0xd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Theme -> default, dark, radical -->
+![](https://github-readme-stats.vercel.app/api?username=jaz0xd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jaz0xd&theme=dark&hide_border=false)
 
 ## Top Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default) -->
