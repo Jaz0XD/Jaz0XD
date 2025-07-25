@@ -27,7 +27,7 @@
 
 ## Top Languages
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact_theme=dark&hide)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=dark&hide)
 
 <!-- ## All Languages -->
 <!-- <p align="left"><img src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg" width="600" height="400"></p> -->
