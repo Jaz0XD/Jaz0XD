@@ -33,7 +33,11 @@
 <!-- <p align="left"><img src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg" width="600" height="400"></p> -->
 
 <h2 align="center">List of Top Projects</h2>
-
+<h3 align='center'>Pothole Detection System</h3>
+<h3 align='center'>Autonomous Drone Swarm System</h3>
+<h3 align='center'>Forward Collision Warning System</h3>
+<h3 align='center'>Gunshot Detection System</h3>
+<h3 align='center'>Breast Cancer Prediction</h3>
 <hr>
 
 
