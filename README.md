@@ -37,7 +37,6 @@
 <h3 align='center'>Autonomous Drone Swarm System</h3>
 <h3 align='center'>Forward Collision Warning System</h3>
 <h3 align='center'>Gunshot Detection System</h3>
-<h3 align='center'>Breast Cancer Prediction</h3>
 <hr>
 
 
