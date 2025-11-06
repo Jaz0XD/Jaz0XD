@@ -5,7 +5,7 @@
 <hr>
 <h1 align="center">MOHAMED B SIRAJUDDEEN</h1>
 <h3 align="center">Artificial General Intelligence</h3>
-<h2 align='center'>Developer and Innovator</h2>a
+<h2 align='center'>Developer and Innovator</h2>
 
 <h3 align='center'>Entering the World of Entrepreneurship and AI</h3>
 
