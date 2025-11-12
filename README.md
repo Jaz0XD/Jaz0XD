@@ -8,7 +8,7 @@
 <h2 align='center'>Developer and Innovator</h2>
 
 <!-- <h3 align='center'>Entering the World of Entrepreneurship and AI</h3> -->
-
+a
 <h3 align='center'>Hands-on - Website, Software and Game development</h3>
 <br><hr>
 
