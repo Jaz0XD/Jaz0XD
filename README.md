@@ -4,7 +4,7 @@
 <p align='center' ><img src="https://img.pikbest.com/background/20220119/ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner_6231445.jpg!w700wp" alt="Artificial Intelligence" class="center-image"></p>
 <hr>
 <h1 align="center">MOHAMED B SIRAJUDDEEN</h1>
-<h3 align="center">Artificial General Intelligence</h3>a
+<h3 align="center">Artificial General Intelligence</h3>
 <h2 align='center'>Developer and Innovator</h2>
 
 <!-- <h3 align='center'>Entering the World of Entrepreneurship and AI</h3> -->
