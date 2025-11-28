@@ -9,7 +9,7 @@
 
 <!-- <h3 align='center'>Entering the World of Entrepreneurship and AI</h3> -->
 
-<h3 align='center'>Hands-on - Website, Software and Game development</h3>a
+<h3 align='center'>Hands-on - Website, Software and Game development</h3>
 <br><hr>
 
 ## Statistics
