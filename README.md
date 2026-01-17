@@ -25,7 +25,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jaz0xd&theme=dark&hide_border=false)
 
 ## Top Languages
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaz0xd&layout=compact&theme=dark&hide)
 
 <!-- ## All Languages -->
