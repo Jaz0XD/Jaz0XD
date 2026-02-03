@@ -31,7 +31,7 @@
 <!-- ## All Languages 
  <p align="left"><img src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg" width="600" height="400"></p> -->
 
-<h2 align="center">List of Top Projects</h2>
+<h2 align="center">My Top Projects</h2>
 
 <!-- Pothole Detection System -->
 <div align="center">
