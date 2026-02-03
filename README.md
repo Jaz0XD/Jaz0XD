@@ -32,18 +32,42 @@
  <p align="left"><img src="https://wakatime.com/share/@JazXD/486c80ef-10b0-4c60-a37a-a14ec02592ba.svg" width="600" height="400"></p> -->
 
 <h2 align="center">List of Top Projects</h2>
-<h3 align='center'>Pothole Detection System</h3>
-<h3 align='center'>Autonomous Drone Swarm System</h3>
-<h3 align='center'>Forward Collision Warning System</h3>
-<h3 align='center'>Autonomous Drone Takeoff and Landing</h3>
-<h3 align='center'>Gunshot Detection System</h3>
 
-
+<!-- Pothole Detection System -->
 <div align="center">
   <h2>
     <a href="https://github.com/Jaz0XD/Pothole_Detection_System">Pothole Detection System</a>
   </h2>
 </div>
+<!-- Autonomous Drone Swarm System -->
+<div align="center">
+  <h2>
+    <a href="https://github.com/Jaz0XD/Autonomous_Drone_Swarm_SIH25">Autonomous Drone Swarm System</a>
+  </h2>
+</div>
+
+<!-- Forward Collision Warning System -->
+<div align="center">
+  <h2>
+    <a href="https://github.com/Jaz0XD/FCW-Tata-Teliport-24">Forward Collision Warning System</a>
+  </h2>
+</div>
+
+<!-- Autonomous Drone Takeoff and Landing -->
+<div align="center">
+  <h2>
+    <a href="https://github.com/Jaz0XD/UAV-Tata-Teliport-26">Autonomous Drone Takeoff and Landing</a>
+  </h2>
+</div>
+
+<!-- Gunshot Detection System -->
+<div align="center">
+  <h2>
+    <a href="https://github.com/Jaz0XD/Gunshot_detection_system_SIH24">Gunshot Detection System</a>
+  </h2>
+</div>
+
+
 
 <br>
 <!-- <h2 align="center">Journal Papers</h2> -->
