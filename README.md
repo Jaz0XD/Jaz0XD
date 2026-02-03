@@ -39,7 +39,7 @@
 <h3 align='center'>Gunshot Detection System</h3>
 
 
-<div align="center" font-size="16px">
+<div align="center" font-size="32px">
   Pothole Detection System <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
 </div>
 
