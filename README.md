@@ -43,7 +43,7 @@
   <h2>Pothole Detection System</h2>
   <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
 </div>
-**Pothole Detection System [View](https://github.com/Jaz0XD/Pothole_Detection_System)**
+
 
 <br>
 <!-- <h2 align="center">Journal Papers</h2> -->
