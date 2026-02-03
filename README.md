@@ -38,6 +38,11 @@
 <h3 align='center'>Autonomous Drone Takeoff and Landing</h3>
 <h3 align='center'>Gunshot Detection System</h3>
 
+
+<div align="center">
+  <h2>Pothole Detection System</h2>
+  <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
+</div>
 **Pothole Detection System [View](https://github.com/Jaz0XD/Pothole_Detection_System)**
 
 <br>
