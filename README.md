@@ -40,8 +40,7 @@
 
 
 <div align="center">
-  <h2>Pothole Detection System</h2>
-  <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
+  <h2>Pothole Detection System</h2> <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
 </div>
 
 
