@@ -39,10 +39,11 @@
 <h3 align='center'>Gunshot Detection System</h3>
 
 
-<div align="center" font-size="32px">
-  Pothole Detection System <a href="https://github.com/Jaz0XD/Pothole_Detection_System">[View Repository]</a>
+<div align="center">
+  <h2>
+    <a href="https://github.com/Jaz0XD/Pothole_Detection_System">Pothole Detection System</a>
+  </h2>
 </div>
-
 
 <br>
 <!-- <h2 align="center">Journal Papers</h2> -->
