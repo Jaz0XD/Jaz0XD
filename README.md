@@ -37,8 +37,8 @@
 <h3 align='center'>Forward Collision Warning System</h3>
 <h3 align='center'>Gunshot Detection System</h3>
 <br>
-<h2 align="center">Journal Papers</h2>
-<h3 align='center'>Autonomous Multi-UAV navigation and rescue in extreme environments</h3>
+<!-- <h2 align="center">Journal Papers</h2> -->
+<!-- <h3 align='center'>Autonomous Multi-UAV navigation and rescue in extreme environments</h3> -->
 
 <hr>
 
